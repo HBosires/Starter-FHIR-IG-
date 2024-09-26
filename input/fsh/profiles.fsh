@@ -25,7 +25,7 @@ Description: "Kenya Patient"
 * identifier contains
     MRN 1..1 and
     NID 0..1 
-identifier [NID].value 1..1
-identifier [NID].system="http://jembi.org/fhir/ImplementationGuide/starter-fhir-ig-hezekiah/identifier/nid"
+* identifier [NID].value 1..1
+* identifier [NID].system="http://jembi.org/fhir/ImplementationGuide/starter-fhir-ig-hezekiah/identifier/nid"
 
 
